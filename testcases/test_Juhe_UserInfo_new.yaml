@@ -1,0 +1,11 @@
+- baseInfo:
+    api_name: 取得个人信息
+    url: /api/getUserInfo
+    method: get
+    header:
+      token: ${get_extract_data(access_token)}
+  testCase:
+    - case_name: 正常取得个人信息
+      data: null
+      validation:
+        - contains: { 'status_code': 200 }

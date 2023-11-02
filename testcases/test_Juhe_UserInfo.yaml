@@ -1,0 +1,9 @@
+-
+  name: 取得个人信息
+  request:
+    method: get
+    url: https://api.apiopen.top/api/getUserInfo
+    headers:
+      token: $token$
+    data: null
+  validate: null

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/base/apiutil.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/base/apiutil_business.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/base/generateId.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/base/new_testcase_tools.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/base/new_tools.ui" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/base/removefile.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/commons/assertions.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/commons/connection.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/commons/debugtalk.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/commons/operationcsv.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/commons/readyaml.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/commons/recordlog.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/commons/sendrequest.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/commons/two_dimension_data.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/conf/config.ini" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/conf/operationConfig.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/environment.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/report/environment.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/venv" charset="GBK" />
+  </component>
+</project>
