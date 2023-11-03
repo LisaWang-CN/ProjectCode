@@ -14,7 +14,7 @@ if __name__ == '__main__':
 
     allureUtil().doAllureCustom()
 
-    os.system(f'allure open ./report')
+    # os.system(f'allure open ./report')
 
     # os.system(f'allure serve ./temp')
     # time.sleep(3)
