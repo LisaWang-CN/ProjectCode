@@ -9,10 +9,10 @@ if __name__ == '__main__':
     # pytest.main(['-vs'])
 
     pytest.main(["-vs" , '--alluredir=./temp', '--clean-alluredir'])
-    time.sleep(3)
-    os.system("allure generate ./temp -o ./report --clean")
+    # time.sleep(3)
+    # os.system("allure generate ./temp -o ./report --clean")
 
-    allureUtil().doAllureCustom()
+    # allureUtil().doAllureCustom()
 
 
 
